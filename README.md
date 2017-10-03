@@ -50,7 +50,4 @@ Install-Package pmilet.DomainEvents -Version 1.0.1
 * Articulo de Jimmy Boggard sobre [DomainEvents](https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/) (del cual me he inspirado para escribir la libreria)
 
 
-
-
-
-
+Espero que lo disfuteis... 

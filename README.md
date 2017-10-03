@@ -5,8 +5,8 @@ Podeis descargaros [aqui](https://github.com/pmilet/dotnetmalaga/blob/master/Usa
 También os puede interesar...
 
 ### DomainEvents Nuget Package
-Este es el proyecto del que os hable pero que no puede hacer la demo por falta de tiempo.
-Si teneis curiosidad se encuentra en este otro [repo](https://github.com/pmilet/domainevents) o importarlo en vuestros proyectos desde [nuget](https://www.nuget.org/packages/pmilet.DomainEvents/)
+Este es el proyecto del que os hable pero que no os puede hacer la demo por falta de tiempo.
+Si teneis curiosidad se encuentra en este otro [repo](https://github.com/pmilet/domainevents) o también podeis importarlo en vuestros proyectos directamente desde [nuget](https://www.nuget.org/packages/pmilet.DomainEvents/)
 
 ### Algunos libros que os recomiendo:
 

@@ -6,11 +6,7 @@ También os puede interesar...
 
 ### DomainEvents Nuget Package
 Este es el proyecto del que os hable pero que no puede hacer la demo por falta de tiempo.
-Si teneis curiosidad se encuentra en este otro [repo](https://github.com/pmilet/domainevents). 
-Por cierto, las contribuciones son bienvenidas!. 
-Para usarlo en vuestros proyectos desde la consola, ejecutar el siguiente comando:
-
-Install-Package pmilet.DomainEvents -Version 1.0.1
+Si teneis curiosidad se encuentra en este otro [repo](https://github.com/pmilet/domainevents) o importarlo en vuestros proyectos desde [nuget](https://www.nuget.org/packages/pmilet.DomainEvents/)
 
 ### Algunos libros que os recomiendo:
 
